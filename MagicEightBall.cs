@@ -1,4 +1,9 @@
-﻿using System;
+/*
+credits to barnacules nerdgasm || codegasm
+(i may do my own script similiar to this in
+the future)
+*/
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
