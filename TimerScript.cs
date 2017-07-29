@@ -1,4 +1,10 @@
-﻿
+/*
+  this script may have some slight errors
+  with the time of hour and some  'try again'
+  errors but other than that it should work
+  fully to either set a timer or display 
+  the current time
+*/
 using System;
 using System.Threading;
 namespace Timer
