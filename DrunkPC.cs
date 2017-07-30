@@ -1,4 +1,8 @@
-﻿using System;
+/*
+(just like magicEightBall credit goes to 
+Barnacules Nerdgasm || codegasm series)
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
